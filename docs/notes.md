@@ -20,3 +20,4 @@ Notes and usage details for 1c-ai-development-kit.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- link the usage section
