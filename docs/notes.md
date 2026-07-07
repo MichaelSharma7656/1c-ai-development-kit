@@ -58,3 +58,4 @@ Notes and usage details for 1c-ai-development-kit.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
