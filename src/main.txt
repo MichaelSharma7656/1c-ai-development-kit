@@ -42,3 +42,4 @@ Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# avoid re-reading the config on every call
